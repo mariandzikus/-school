@@ -1,8 +1,7 @@
 print("Kamil Kumszczyński - Zad 6.7")
 print("")
 
-print(
-    "Palindrom to ciąg znaków, który czytany od początku i od końca jest taki sam. Program sprawdza czy wpisany tekst jest palindromem.")
+print("Palindrom to ciąg znaków, który czytany od początku i od końca jest taki sam. Program sprawdza czy wpisany tekst jest palindromem.")
 
 print("")
 
