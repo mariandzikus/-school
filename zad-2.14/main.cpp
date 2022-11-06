@@ -38,7 +38,7 @@ int main()
     double T[MAX]
     wczytaj(T, 10);
     wypisz(T, 10);
-    cout << "\nsuma wszystkich elementow wynosi " << obliczSume(T, 10) << endl;
-   cout << "\niloczyn elementow mniejszych od 6 wynosi " << obliczIloczyn(T, 10) << endl;
+    cout << "\nsuma wszystkich elementów wynosi " << obliczSume(T, 10) << endl;
+   cout << "\niloczyn elementów mniejszych od 6 wynosi " << obliczIloczyn(T, 10) << endl;
    return 0;
-}
+} 
